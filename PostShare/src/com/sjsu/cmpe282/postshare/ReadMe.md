@@ -9,7 +9,7 @@ PostShare is a webapp that provides the platform where users can
 
 Main focus:
   - Utilize the available cloud features to provide high availability and scalability
-  - Implement RESTful webservices based micro-service archituecture
+  - Implement RESTful webservices based micro-service archituecture using Java
 
 ### Tech
 
